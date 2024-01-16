@@ -16,7 +16,7 @@ import {
 
 import { FaAward } from "react-icons/fa";
 
-import Me from "../../assets/img/me-about.jpg";
+import Me from "../../assets/img/me-about.jpeg";
 const About = () => {
   return (
     <AboutWrapper>
@@ -36,7 +36,7 @@ const About = () => {
                 Experience
               </AboutContainerContentCardFirstText>
               <AboutContainerContentCardSecondText>
-                1.5+ Years Working
+                2+ Years Working
               </AboutContainerContentCardSecondText>
             </AboutContainerContentCard>
           </AboutContainerContentCards>

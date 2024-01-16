@@ -21,14 +21,14 @@ const Experience = () => {
   const experiences = {
     "Frontend Development": [
       { tech: "Javascript", level: "Expert" },
+      { tech: "Typescript", level: "Expert" },
       { tech: "Reactjs", level: "Expert" },
-      { tech: "HTML", level: "Expert" },
-      { tech: "CSS", level: "intermediate" },
+      { tech: "Redux", level: "Intermediate" },
     ],
     "Backend Development": [
       { tech: "Golang", level: "Expert" },
-      { tech: "Nodejs", level: "Intermediate" },
-      { tech: "Java", level: "Expert" },
+      { tech: "Nodejs", level: "Expert" },
+      { tech: "Java", level: "Intermediate" },
       { tech: "AWS services", level: "Intermediate" },
     ],
   };

@@ -13,7 +13,7 @@ import {
   ScrollDownLink,
 } from "./styles";
 
-import Me from "../../assets/img/Me.jpg";
+import Me from "../../assets/img/Me.jpeg";
 import Socials from "./components/Socials";
 
 const Header = () => {
